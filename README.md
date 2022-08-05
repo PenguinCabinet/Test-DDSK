@@ -7,7 +7,7 @@
 # ⬇️インストール
 
 ```
-go install github.com/PenguinCabinet/Test-DDSK.git@latest
+go install github.com/PenguinCabinet/Test-DDSK@latest
 ```
 
 # 📕使い方

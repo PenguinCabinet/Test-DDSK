@@ -1,4 +1,4 @@
-module Test-DDSK
+module github.com/PenguinCabinet/Test-DDSK
 
 go 1.18
 
